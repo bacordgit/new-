@@ -1,0 +1,2 @@
+public class nodsod {
+}
