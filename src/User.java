@@ -2,6 +2,7 @@ public class User {
     String id;
     String name;
     String password;
+    String angel;
     public String getid(){
         return id;
     }
