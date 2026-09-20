@@ -3,6 +3,7 @@ public class User {
     String name;
     String password;
     String fdsl;
+    String angel;
     public String getid(){
         return id;
     }
