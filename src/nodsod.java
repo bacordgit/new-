@@ -1,2 +1,1 @@
-
-//sdfsfffsfdfgitssfsf
+both ok
